@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+      <fname>sotheary</fname>
+      <lname>Seang </lname>
+      <uname>ary</uname>
+      <email>s.sotheary@gmx.ch</email>
+      <psw>ary12345</psw>
+   </user>
+  <user>
+    <fname>Test</fname>
+    <lname>Secondtest</lname>
+    <uname>test2</uname>
+    <email>test2.second@gmx.ch</email>
+    <psw>test2</psw>
+ </user>
+ <user>
+    <fname>Bob</fname>
+    <lname>Hadi</lname>
+    <uname>hadi1</uname>
+    <email>hadi1@gmail1.com</email>
+    <psw>12345</psw>
+ </user>
+<user><fname>Alice</fname><lname>Small</lname><uname>alice</uname><email>alice-small@gamil.com</email><psw>alice12345</psw></user><user><fname>Test</fname><lname>One</lname><uname>onlytest</uname><email>test.onl@gmail.com</email><psw>test1234</psw></user><user><fname>Hadi</fname><lname>Aasa</lname><uname>hadi123</uname><email>hadi.ha@gmail.com</email><psw>12345</psw></user><user><fname>Hadihadi</fname><lname>Sara</lname><uname>sara1</uname><email>sara@gmail.com</email><psw>12345</psw></user></users>

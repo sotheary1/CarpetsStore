@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logins>
+  <login>
+    <uname>sotheary</uname>
+    <psw>12345</psw>
+  </login>
+  <login>
+    <uname>admin</uname>
+    <psw>carpet12345</psw>
+  </login>
+  <login>
+    <uname>ary</uname>
+    <psw>ary12345</psw>
+  </login>
+  <login>
+    <uname>hadi</uname>
+    <psw>hadi123</psw>
+  </login>
+  <login>
+    <uname>test2</uname>
+    <psw>test2</psw>
+  </login>
+  <login>
+    <uname>hadi1</uname>
+    <psw>12345</psw>
+  </login>
+<login><uname>bob</uname><psw>bob123</psw></login><login><uname>alice</uname><psw>alice12345</psw></login><login><uname>onlytest</uname><psw>test1234</psw></login><login><uname>hadi123</uname><psw>12345</psw></login><login><uname>sara1</uname><psw>12345</psw></login></logins>
